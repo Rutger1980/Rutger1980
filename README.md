@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rutger1980
+- 👋 Hi, I’m Rutger, nice to meet you!
 - 👀 I’m interested in the combination of sourcing, coding and Tech. And I like almost all kind of sports!
 - 🌱 I’m currently learning Java for beginner/dummie ;)
 - 💞️ I’m looking to collaborate on 
